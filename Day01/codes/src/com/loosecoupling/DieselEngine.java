@@ -1,0 +1,7 @@
+package com.loosecoupling;
+
+public class DieselEngine implements Engine {
+    public void show(){
+        System.out.println("This is diesel Engine");
+    }
+}
