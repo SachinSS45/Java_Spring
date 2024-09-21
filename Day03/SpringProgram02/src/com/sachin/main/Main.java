@@ -14,6 +14,6 @@ public class Main {
         std1.display();
         Student std2 = (Student) context.getBean("std2");
         std2.display();
-        
+
     }
 }
